@@ -1,0 +1,62 @@
+@font-face {
+    font-family: rom ;
+    src: url(Fonts/Romile-Regular.ttf);
+}
+
+@font-face {
+    font-family: par ;
+    src: url(Fonts/sfns-display-thin.ttf);
+}
+
+
+body{
+    background-color: #DCDCDC;
+}
+
+h1{
+    color: #696969;
+    font-family: rom, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    color: #808080;
+    font-family: rom, sans-serif;
+    font-size: 2rem;
+}
+
+p{
+    color: #000000;
+    font-family: par, sans-serif;
+}
+
+a{
+    color: #696969;
+    font-family: rom, sans-serif;
+    font-size: 1.5rem;
+}
+
+h3{
+    color: #000000;
+    font-family: par, sans-serif;
+}
+
+ul{
+    color: #000000;
+    font-family: par, sans-serif;
+    list-style-type: square;
+}
+
+ol{
+    color: #000000;
+    font-family: par, sans-serif;
+}
+
+a:hover{
+    color: #FFFAFA;
+}
+
+img{
+    width: 300px; 
+}
